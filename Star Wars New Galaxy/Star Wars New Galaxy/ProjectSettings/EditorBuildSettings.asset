@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 14f20729c352ed64b8cd81ef340d57cc
+  - enabled: 1
+    path: Assets/Scenes/Nivel 1/DesertScene_mobile.unity
+    guid: 045c131302019b040929a92b606ec3aa
+  - enabled: 1
+    path: Assets/Scenes/Nivel 3/Jedi_Dentro.unity
+    guid: aeed4a9ce65153847b6a4b59c3b18af9
+  - enabled: 1
+    path: Assets/Scenes/Nivel 3/Jedi_Fuera.unity
+    guid: 1c427acfe3425ca40add3a5d3bd874a8
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect.unity
+    guid: 22ee3559bf3a1374ea3708c80f9a7ead
+  - enabled: 1
+    path: Assets/Scenes/Nivel 2/Sample Scene.unity
+    guid: 0b0403de45d31496f8b90f72b42b0ba0
+  - enabled: 1
+    path: Assets/Scenes/Nivel 1/Cami Nv1.unity
+    guid: 5a467c71541c94445b50f0c90e802c6e
+  - enabled: 1
+    path: Assets/Scenes/Nivel 1/Rami Nv1.unity
+    guid: 979143fda820c8d4090bd97361257abd
+  m_configObjects: {}
